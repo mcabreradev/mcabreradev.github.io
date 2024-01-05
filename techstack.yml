@@ -1,7 +1,8 @@
 repo_name: mcabreradev/mcabreradev.github.io
 report_id: 6f461a964667e5a1f61e07dc62d7e3a9
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T15:29:22+00:00'
+timestamp: '2024-01-05T08:44:06+00:00'
 requested_by: mcabreradev
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mcabreradev/mcabreradev.github.io
   detection_source: Repo Metadata
